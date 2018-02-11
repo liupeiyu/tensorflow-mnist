@@ -10,7 +10,7 @@
 - Python >=2.7 or >=3.4
   - TensorFlow >=1.0
 - Node >=6.9
-
+#we need python3 
 
 ### How to run ###
 
